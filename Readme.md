@@ -106,5 +106,3 @@ The model relies primarily on credit history to make approval decisions, while o
 - Credit score is the most influential feature in decision-making
 - Decision Trees provide strong interpretability for financial risk analysis
 - Precision and recall-based evaluation ensures business-aligned outcomes
-
-This project demonstrates a practical and explainable machine learning approach to loan approval prediction.
