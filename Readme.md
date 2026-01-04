@@ -61,7 +61,7 @@ These metrics better reflect business risk compared to accuracy alone.
 
 ## 6. Data & Model Insights (Visual Analysis)
 ### 6.1 CIBIL Score vs Loan Status (Boxplot)
-
+![CIBIL score Distribution Comparison](cibil_vs_status.png)
 This boxplot compares the distribution of CIBIL scores for **rejected (0)** and **approved (1)** loan applications.
 
 **How to read the boxplot**
@@ -83,6 +83,7 @@ The clear separation between the two groups shows that CIBIL score is a critical
 
 ### 6.2 Decision Tree Feature Importance
 
+![Decision Tree Predictions](decision_tree.png)
 This bar chart shows how strongly each feature influenced the Decision Tree’s predictions.
 
 **How to read the chart**
